@@ -2,3 +2,5 @@ step by step training :
 1. belajar git
 2. belajar html
 3. belajar php
+4. ingin membuat aplikasi
+5. ingin kolaborasi dengan teman-teman
