@@ -1,0 +1,4 @@
+step by step training :
+1. belajar git
+2. belajar html
+3. belajar php
